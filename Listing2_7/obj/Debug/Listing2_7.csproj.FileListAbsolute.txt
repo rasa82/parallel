@@ -1,0 +1,6 @@
+G:\VSWorkspace\C#\ParallelProgramming\Listing2_7\bin\Debug\Listing2_7.exe.config
+G:\VSWorkspace\C#\ParallelProgramming\Listing2_7\bin\Debug\Listing2_7.exe
+G:\VSWorkspace\C#\ParallelProgramming\Listing2_7\bin\Debug\Listing2_7.pdb
+G:\VSWorkspace\C#\ParallelProgramming\Listing2_7\obj\Debug\Listing2_7.csprojResolveAssemblyReference.cache
+G:\VSWorkspace\C#\ParallelProgramming\Listing2_7\obj\Debug\Listing2_7.exe
+G:\VSWorkspace\C#\ParallelProgramming\Listing2_7\obj\Debug\Listing2_7.pdb

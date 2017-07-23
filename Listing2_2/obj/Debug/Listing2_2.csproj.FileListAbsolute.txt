@@ -1,0 +1,5 @@
+G:\VSWorkspace\C#\ParallelProgramming\Listing2_2\bin\Debug\Listing2_2.exe.config
+G:\VSWorkspace\C#\ParallelProgramming\Listing2_2\bin\Debug\Listing2_2.exe
+G:\VSWorkspace\C#\ParallelProgramming\Listing2_2\bin\Debug\Listing2_2.pdb
+G:\VSWorkspace\C#\ParallelProgramming\Listing2_2\obj\Debug\Listing2_2.exe
+G:\VSWorkspace\C#\ParallelProgramming\Listing2_2\obj\Debug\Listing2_2.pdb
